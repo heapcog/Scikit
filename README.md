@@ -16,5 +16,7 @@ VS code | 1.521
 
 Scikit has three interfaces
 > Estimator -- To build fitting the models
+
 > Predictor -- To make predictions
+
 > Transformer -- To convert Data
